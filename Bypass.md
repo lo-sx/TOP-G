@@ -24,3 +24,44 @@ To free yourself from the organization enrollment you can do these steps
 
 > [!IMPORTANT]
 > Some of this only works on certain Chromebooks! (idk which ones)
+
+# I can't open html files :(
+-- How to open html files
+
+Go to one of these html runner websites 
+
+|  # | Website                      | HTML | CSS |  JS | Live Preview | Notes                                 |
+| -: | ---------------------------- | :--: | :-: | :-: | :----------: | ------------------------------------- |
+|  1 | CodePen                      |   ✓  |  ✓  |  ✓  |       ✓      | Very popular front-end playground     |
+|  2 | JSFiddle                     |   ✓  |  ✓  |  ✓  |       ✓      | Simple HTML/CSS/JS editor             |
+|  3 | JS Bin                       |   ✓  |  ✓  |  ✓  |       ✓      | Lightweight web playground            |
+|  4 | W3Schools Tryit Editor       |   ✓  |  ✓  |  ✓  |       ✓      | Beginner-friendly                     |
+|  5 | Programiz HTML Editor        |   ✓  |  ✓  |  ✓  |       ✓      | Simple online editor                  |
+|  6 | Replit                       |   ✓  |  ✓  |  ✓  |       ✓      | Full coding environment               |
+|  7 | StackBlitz                   |   ✓  |  ✓  |  ✓  |       ✓      | Browser-based development environment |
+|  8 | CodeSandbox                  |   ✓  |  ✓  |  ✓  |       ✓      | Full web development sandbox          |
+|  9 | PlayCode                     |   ✓  |  ✓  |  ✓  |       ✓      | Fast browser-based playground         |
+| 10 | OneCompiler                  |   ✓  |  ✓  |  ✓  |       ✓      | Supports many languages               |
+| 11 | HTML-CSS-JS.com              |   ✓  |  ✓  |  ✓  |       ✓      | Dedicated front-end playground        |
+| 12 | Liveweave                    |   ✓  |  ✓  |  ✓  |       ✓      | Live HTML/CSS/JS preview              |
+| 13 | HTML Online                  |   ✓  |  ✓  |  ✓  |       ✓      | Quick HTML testing                    |
+| 14 | SoloLearn Code Playground    |   ✓  |  ✓  |  ✓  |       ✓      | Learning-oriented                     |
+| 15 | TutorialsPoint Coding Ground |   ✓  |  ✓  |  ✓  |       ✓      | Multi-language environment            |
+| 16 | JDoodle                      |   ✓  |  ✓  |  ✓  |       ✓      | Multi-language online IDE             |
+| 17 | Paiza.IO                     |   ✓  |  ✓  |  ✓  |       ✓      | Online code execution                 |
+| 18 | CodingRooms                  |   ✓  |  ✓  |  ✓  |       ✓      | Educational coding environment        |
+| 19 | GitHub Codespaces            |   ✓  |  ✓  |  ✓  |       ✓      | Full cloud development environment    |
+| 20 | Gitpod                       |   ✓  |  ✓  |  ✓  |       ✓      | Cloud development environment         |
+| 21 | Glitch                       |   ✓  |  ✓  |  ✓  |       ✓      | Build and host web projects           |
+| 22 | Flems                        |   ✓  |  ✓  |  ✓  |       ✓      | Minimal JavaScript playground         |
+| 23 | Scrimba                      |   ✓  |  ✓  |  ✓  |       ✓      | Interactive coding environment        |
+| 24 | Codeply                      |   ✓  |  ✓  |  ✓  |       ✓      | Front-end framework playground        |
+| 25 | Dabblet                      |   ✓  |  ✓  |  —  |       ✓      | CSS/HTML experimentation              |
+| 26 | CSSDeck                      |   ✓  |  ✓  |  ✓  |       ✓      | Front-end experiments                 |
+| 27 | LiveGap                      |   ✓  |  ✓  |  ✓  |       ✓      | Online HTML/CSS/JS editor             |
+| 28 | HTML Instant                 |   ✓  |  ✓  |  ✓  |       ✓      | Simple HTML editing                   |
+| 29 | w3resource Online Editor     |   ✓  |  ✓  |  ✓  |       ✓      | Web-development practice              |
+| 30 | RunJS                        |   ✓  |  ✓  |  ✓  |       ✓      | JavaScript-focused playground         |
+| 31 | CodeHS Sandbox               |   ✓  |  ✓  |  ✓  |       ✓      | Educational coding tools              |
+| 32 | Codingame                    |   ✓  |  ✓  |  ✓  |       ✓      | Coding platform with browser execuction    |
+
