@@ -26,7 +26,8 @@ To free yourself from the organization enrollment you can do these steps
 > Some of this only works on certain Chromebooks! (idk which ones)
 
 # I can't open html files :(
--- How to open html files
+-- 
+How to open the htmls
 
 Go to one of these html runner websites 
 
