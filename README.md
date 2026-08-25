@@ -653,6 +653,15 @@ The following entries were added from current web research after the original di
 | 613 | Proxy | 4everproxy | [https://www.4everproxy.com/es/tor-proxy](https://www.4everproxy.com/es/tor-proxy) | [https://www.4everproxy.com/proxy](https://www.4everproxy.com/proxy) | Alternate URL | Official Spanish-language Tor web-proxy service page. |
 | 614 | Proxy | 4everproxy | [https://www.4everproxy.com/pt/vpn](https://www.4everproxy.com/pt/vpn) | [https://www.4everproxy.com/proxy](https://www.4everproxy.com/proxy) | Alternate URL | Official Portuguese-language VPN page on the same service domain. |
 
+## [KIWI URLS] (from DC Server) [Join!](https://discord.com/invite/g3C9T5EdKx)
+
+1. https://www.kahoot.si/ pin 2222
+2. https://www.ixl.ad/ search 9999
+3. https://www.classlink.online/ search 0000
+4. https://www.quizlet.fun/ search 4444
+5. https://www.eduno.study/ enter 8888
+6. https://www.education.cat/
+
 ## Sources / Verification Notes
 
 1. **GameVeo current directory:** https://gameveo.fun/   current directory states that it contains a complete 547-record catalog and organizes browser-game sites by category.
