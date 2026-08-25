@@ -7,6 +7,8 @@ Table of proxies and games (TOP&G) is a repo with a table of web proxies and gam
 **Web-proxy URLs:** 35  
 **Legitimate alternate-domain / alternate-URL entries:** 18
 
+# JOIN OUR DC! [HERE](https://discord.gg/mBEXsK52DP)
+
 ## Verification / accuracy notes
 
 - The game-site portion was assembled from the **current 547-record GameVeo browser-game directory**, which was crawled on August 24, 2026. The directory describes itself as a curated directory of external sites offering browser-playable games and states that its catalog details are reviewed over time.
