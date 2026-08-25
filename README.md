@@ -1,5 +1,5 @@
 # TOP&G
-Table of proxies and games (TOP&amp;G) is a repo with a table of web proxies and games (and also some alt links)
+Table of proxies and games (TOP&G) is a repo with a table of web proxies and games (and also some alt links) And some help on how to bypass some stuff
 
 **Generated:** August 24, 2026  
 **Unique URLs:** 614  
