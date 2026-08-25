@@ -4,7 +4,7 @@ Table of proxies and games (TOP&G) is a repo with a table of web proxies and gam
 **Generated:** August 24, 2026  
 **Unique URLs:** 614  
 **Game URLs:** 579  
-**Web-proxy URLs:** 29  
+**Web-proxy URLs:** 35  
 **Legitimate alternate-domain / alternate-URL entries:** 18
 
 ## Verification / accuracy notes
