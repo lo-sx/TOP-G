@@ -662,7 +662,48 @@ The following entries were added from current web research after the original di
 3. https://www.classlink.online/ search 0000
 4. https://www.quizlet.fun/ search 4444
 5. https://www.eduno.study/ enter 8888
-6. https://www.education.cat/
+6. https://www.education.cat/ 
+
+# From discord links
+(Links for Securly blocker) https://4zw.vapourv4.qzz.io/
+https://5zg.vapourv4.qzz.io/
+https://7pw.vapourv4.qzz.io/
+https://7uj.vapourv4.qzz.io/
+https://9cb.vapourv4.qzz.io/
+https://9qmd.vapourv4.qzz.io/
+https://9xn.vapourv4.qzz.io/
+https://9zl.vapourv4.qzz.io/
+https://aele.vapourv4.qzz.io/
+https://ah1.vapourv4.qzz.io/
+https://b87q.vapourv4.qzz.io/
+https://c20i.vapourv4.qzz.io/
+https://cp6.vapourv4.qzz.io/
+https://e8gb.vapourv4.qzz.io/
+https://ef4.vapourv4.qzz.io/
+https://fli.vapourv4.qzz.io/
+https://g95.vapourv4.qzz.io/
+https://hld3.vapourv4.qzz.io/
+https://jbl.vapourv4.qzz.io/
+https://k1c.vapourv4.qzz.io/
+https://ldq.vapourv4.qzz.io/
+https://lk3k.vapourv4.qzz.io/
+https://lukc.vapourv4.qzz.io/
+https://nfzy.vapourv4.qzz.io/
+https://p7f9.vapourv4.qzz.io/
+https://pm0.vapourv4.qzz.io/
+https://sinu.vapourv4.qzz.io/
+https://sj7.vapourv4.qzz.io/
+https://u2x.vapourv4.qzz.io/
+https://u36p.vapourv4.qzz.io/
+https://u3z1.vapourv4.qzz.io/
+https://ujo3.vapourv4.qzz.io/
+https://veh.vapourv4.qzz.io/
+https://vfj.vapourv4.qzz.io/
+https://vyd7.vapourv4.qzz.io/
+https://wca0.vapourv4.qzz.io/
+https://x1nu.vapourv4.qzz.io/
+https://xurx.vapourv4.qzz.io/
+https://y601.vapourv4.qzz.io/
 
 ## Sources / Verification Notes
 
